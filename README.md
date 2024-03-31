@@ -1,1 +1,2 @@
 # Deep-Learning
+This project aimed to develop and optimize a deep learning model for sentiment analysis using the IMDb dataset. Various architectures and techniques, including dropout and L2 regularization, were explored to improve model performance. The final model was refined through k-fold cross-validation and retraining, resulting in a highly accurate classifier capable of distinguishing between positive and negative sentiments in movie reviews with an accuracy of 92.24%.
